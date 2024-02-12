@@ -11,6 +11,6 @@ main:
   - name: Uses
     url: uses/
     weight: 30
-  - name: Uses
+  - name: Uses1
     url: uses/
     weight: 30
